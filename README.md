@@ -6,8 +6,8 @@ Download repository:
 
 Install all development dependencies using:
 
-```$ npm install o $ yarn install```
+```$ npm install or $ yarn install```
 
 Run the development server with:
 
-```$ npm run dev 0 $ yarn dev```
+```$ npm run dev or $ yarn dev```
