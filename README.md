@@ -11,3 +11,7 @@ Install all development dependencies using:
 Run the development server with:
 
 ```$ npm run dev or $ yarn dev```
+
+GoTo:
+
+```http://localhost:8080/```
