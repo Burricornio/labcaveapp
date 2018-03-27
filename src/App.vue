@@ -21,7 +21,10 @@ export default {
 }
 </script>
 
-<style scoped>
+<style>
+  *:focus {
+	outline: none;
+  }
   .toolbar {
     text-align: center;
     display: flex;
